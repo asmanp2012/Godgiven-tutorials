@@ -1,11 +1,11 @@
 # `Javascript` or `ECMAScript` Editions - CHANGELOG
 
-JavaScript was invented by Brendan Eich in 1995, and became an ECMA standard in 1997.
-ECMAScript is the official name of the language.
-ECMAScript versions have been abbreviated to `ES1`, `ES2`, `ES3`, `ES5`, and `ES6`.
-Since `2016` new versions are named by year (ECMAScript `2016` / `2017` / `2018`).
-[Ecma international](https://github.com/tc39)
-[ECMAScript](https://en.wikipedia.org/wiki/ECMAScript)
+JavaScript was invented by Brendan Eich in 1995, and became an ECMA standard in 1997.  
+ECMAScript is the official name of the language.  
+ECMAScript versions have been abbreviated to `ES1`, `ES2`, `ES3`, `ES5`, and `ES6`.  
+Since `2016` new versions are named by year (ECMAScript `2016` / `2017` / `2018`).  
+[Ecma international](https://github.com/tc39)  
+[ECMAScript](https://en.wikipedia.org/wiki/ECMAScript)  
 
 ---
 
