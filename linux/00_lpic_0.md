@@ -4,8 +4,6 @@
 
 ## Chapter1: Selecting an Operating System
 
-___________________________________________________
-
 ### What Is the Linux Essentials Certification?
 
 The Linux Professional Institute, or [LPI](www.lpi.org), offers a series of Linux certifications. These certifications aim to provide proof of skill levels for employers; if you’ve passed a particular certification, you should be competent to perform certain tasks on Linux computers.
@@ -29,8 +27,6 @@ The Linux Professional Institute, or [LPI](www.lpi.org), offers a series of Linu
 - [distrowatch.com](https://distrowatch.com/)
 
 ## Chapter 2: Understanding Software Licensing
-
-___________________________________________________
 
 ### Copy Right
 
