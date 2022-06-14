@@ -92,3 +92,19 @@ The Linux Professional Institute, or [LPI](www.lpi.org), offers a series of Linu
     - `multi-user.target`: `Runlevel 2` & `Runlevel 3` & `Runlevel 4` or user-definable & multi-user & networking
     - `graphical.target`: `Runlevel 5` or multi-user mode with networking
     - `reboot.target`: `Runlevel 6` or reboots the system to restart it
+  - Where is config of runlevels?
+    - System V: `/etc/rc.d/`
+    - SystenD: `/etc/systemd/system`
+  - How can i manage services?
+    - System V [`service`](https://explainshell.com/explain?cmd=service)
+      - start [`service nginx start`](https://explainshell.com/explain?cmd=service+nginx+start)
+      - stop [`service nginx stop`](https://explainshell.com/explain?cmd=service+nginx+stop)
+      - status [`service nginx status`](https://explainshell.com/explain?cmd=service+nginx+status)
+      - restart [`service nginx restart`](https://explainshell.com/explain?cmd=service+nginx+restart)
+    - SystemD [`systemctl`](https://man7.org/linux/man-pages/man1/systemctl.1.html)
+      - enabel
+      - disable
+      - start
+      - stop
+      - restart
+      - reload
