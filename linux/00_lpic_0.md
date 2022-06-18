@@ -108,3 +108,56 @@ The Linux Professional Institute, or [LPI](www.lpi.org), offers a series of Linu
       - stop
       - restart
       - reload
+
+### package mangers
+
+In simpler words, a package manager is a tool (software) that allows users to install, remove, upgrade, configure and manage software packages on an operating system. **( package: A package is usually referred to an application but it could be a GUI application, command line tool or a software library required by other software programs.)**
+
+list of popular package manager:
+
+- dpkg (debian)
+- rpm (redhat)
+- apt (debian)
+- yum (redhat)
+
+Command for update list of packages is:
+
+```bash
+apt update
+```
+
+You can install package with:
+
+```bash
+apt install nginx
+```
+
+apt use repos that you define in
+
+```bash
+/etc/apt/sources.list
+```
+
+You can find some repos in [Linux Repository of FUM](http://repos.um.ac.ir/).
+
+commands:
+
+- `nano`
+- `vim` (nead to install or use `vi`)
+- `top`
+- `htop` (nead to install with: `apt install htop`)
+- `kill`
+
+Now you can check the state of nginx with:
+
+```bash
+systemctl status nginx
+```
+
+You can stop it with:
+
+```bash
+systemctl stop nginx
+```
+
+and etc.
