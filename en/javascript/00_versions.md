@@ -61,11 +61,19 @@ Since `2016` new versions are named by year (ECMAScript `2016` / `2017` / `2018`
 
 ### ECMAScript 2015
 
-- Added let and const
-- Added default parameter values
-- Added Array.find()
-- Added Array.findIndex()
-- Added template literals for strings
+- Let and const
+- Default parameter values
+- For/Of Loop
+- JavaScript Classes
+- Promises
+- Function Rest Parameter
+- Template literals for strings
+- Arrow Functions
+- Spread (...) in Array
+- Array.keys()
+- Array.find()
+- Array.findIndex()
+- `**Modules**`
 
 ---
 
