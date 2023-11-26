@@ -73,7 +73,7 @@ Since `2016` new versions are named by year (ECMAScript `2016` / `2017` / `2018`
 - Array.keys()
 - Array.find()
 - Array.findIndex()
-- `**Modules**`
+- **`Modules`**
 
 ---
 
