@@ -41,23 +41,23 @@ Since `2016` new versions are named by year (ECMAScript `2016` / `2017` / `2018`
 
 ### ECMAScript 2018
 
-- Added rest / spread properties
-- Added asynchronous iteration
-- Added Promise.finally()
+- rest / spread properties
+- asynchronous iteration
+- Promise.finally()
 - Additions to RegExp
 
 ### ECMAScript 2017
 
-- Added string padding
-- Added Object.entries
-- Added Object.values
-- Added async functions
-- Added shared memory
+- string padding
+- Object.entries
+- Object.values
+- Async functions
+- Shared memory
 
 ### ECMAScript 2016
 
-- Added exponential operator (**)
-- Added Array.prototype.includes
+- Exponential operator (**)
+- Array.prototype.includes
 
 ### ECMAScript 2015
 
@@ -79,11 +79,11 @@ Since `2016` new versions are named by year (ECMAScript `2016` / `2017` / `2018`
 
 ## ES5
 
-- Added "strict mode"
-- Added JSON support
-- Added String.trim()
-- Added Array.isArray()
-- Added Array iteration methods
+- `**"strict mode"**`
+- JSON support
+- String.trim()
+- Array.isArray()
+- Array iteration methods
 
 ---
 
